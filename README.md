@@ -199,15 +199,15 @@ Explain the structure of the project directory. Example:
 .
 
                 └── Point-of-Sale-and-Inventory-Management-System/
-                    ├── assets
-                    ├── database
-                    ├── functions
-                    ├── screenshots
-                    ├── 404
-                    ├── dashboard
-                    ├── index
-                    ├── insufficient
-                    ├── inventory
+                    ├── assets/
+                    ├── database/
+                    ├── functions/
+                    ├── screenshots/
+                    ├── 404.php
+                    ├── dashboard.php
+                    ├── index.php
+                    ├── insufficient.php
+                    ├── inventory.php
                     ├── LEARN
                     ├── LICENSE
                     ├── logs
