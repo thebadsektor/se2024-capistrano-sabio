@@ -1,4 +1,4 @@
-# SD-3101 [Point of Sale and Inventory Management System]
+use# SD-3101 [Point of Sale and Inventory Management System]
 
 ![Project Banner](screenshots/image.jpg)
 
@@ -237,6 +237,7 @@ Outline the project timeline, including milestones or deliverables. Example:
 - DASHBOARD OVERVIEW
 - PRODUCT MANAGEMENT
 - STOCKS ALERT
+- ORDER HISTORY
 - **Week 3-5**: Designing the new features.
 - **Week 6-10**: Implementation.
 - **Week 11-12**: Testing and debugging.
