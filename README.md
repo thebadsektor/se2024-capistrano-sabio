@@ -234,8 +234,10 @@ Outline the project timeline, including milestones or deliverables. Example:
 - **Week 1-2**: Collaborative Brainstorming for Feature Development.
 - https://m.youtube.com/watch?v=1TF_gqFCzKU
 - Proposes Features
-- 
-- **Week 3-5**: Design and setup.
+- DASHBOARD OVERVIEW
+- PRODUCT MANAGEMENT
+- STOCKS ALERT
+- **Week 3-5**: Designing the new features.
 - **Week 6-10**: Implementation.
 - **Week 11-12**: Testing and debugging.
 - **Week 13-14**: Final presentation and documentation.
