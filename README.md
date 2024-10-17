@@ -229,12 +229,16 @@ List all the team members involved in the project. Include their roles and respo
 Outline the project timeline, including milestones or deliverables. Example:
 
 - **Week 1-2**: Collaborative Brainstorming for Feature Development.
-- https://m.youtube.com/watch?v=1TF_gqFCzKU
-- Proposes Features
-- DASHBOARD OVERVIEW
-- PRODUCT MANAGEMENT
-- STOCKS ALERT
-- ORDER HISTORY
+   - https://m.youtube.com/watch?v=1TF_gqFCzKU
+   - Proposes Features
+   - DASHBOARD OVERVIEW
+   - PRODUCT MANAGEMENT
+   - STOCKS ALERT
+   - ORDER HISTORY
+
+   - Feature: Dockerize Project
+   - Target Completion: 27/10/2024
+
 - **Week 3-5**: Designing the new features.
 - **Week 6-10**: Implementation.
 - **Week 11-12**: Testing and debugging.
