@@ -1,4 +1,4 @@
-use# SD-3101 [Point of Sale and Inventory Management System]
+SD-3101 [Point of Sale and Inventory Management System]
 
 ![Project Banner](screenshots/image.jpg)
 
