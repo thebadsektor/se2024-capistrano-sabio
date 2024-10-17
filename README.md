@@ -197,10 +197,7 @@ Explain the structure of the project directory. Example:
 ```bash
 .
 .
-└── C:/
-    └── xampp/
-        └── htdocs/
-            └── system/
+
                 └── Point-of-Sale-and-Inventory-Management-System/
                     ├── assets
                     ├── database
